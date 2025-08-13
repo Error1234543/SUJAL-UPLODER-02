@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/nikhilsainiop/saini-txt-direct",
-    "success_url": "https://t.me/saini_contact_bot",
+    "success_url": "https://t.me/Sonicdmbot",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -23,7 +23,7 @@
         },
         "BOT_TOKEN": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-            "value": "8146069942:AAHUml7dOsNQg2B0vEDy7-bXWAzc5pugP7A",
+            "value": "8033969537:AAHGVAbFOIej80lzl6JhqNgY8i8N3tMYbtw",
             "required": true
         },
         "OWNER": {
@@ -33,7 +33,7 @@
         },
         "CREDIT": {
             "description": "𝙀𝙣𝙩𝙚𝙧 𝘾𝙧𝙚𝙙𝙞𝙩 𝙉𝙖𝙢𝙚 𝙞𝙣 𝙖𝙡𝙢𝙤𝙨𝙩 6-8 𝙡𝙚𝙩𝙩𝙚𝙧𝙨",
-            "value": "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎",
+            "value": "Sonic",
             "required": true
         }
     },
